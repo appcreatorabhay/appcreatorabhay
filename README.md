@@ -1,106 +1,78 @@
-👋 Hi, I'm Abhay Rathore
+🚀 Abhay Rathore
+Software Development Engineer | Java Full Stack & MERN Specialist
 
-📧 abhayrathore036@gmail.com
-📱 +91 9109033270
-🔗 LinkedIn | GitHub
+📧 abhayrathore036@gmail.com | 📱 +91 9109033270 | 🔗 LinkedIn | GitHub
 
-💻 🚀 Software Development Engineer | Java Full Stack | MERN Stack
+✨ Professional Summary
+Passionate and results-driven Software Development Engineer specializing in scalable backend systems, robust REST APIs, and high-performance full-stack applications. Equipped with a strong foundation in Data Structures & Algorithms (DSA), clean code practices, and modern cloud infrastructure. Eager to contribute technical expertise to high-impact engineering teams in SDE and Full Stack development roles.
 
-✨ I design and build scalable backend systems, REST APIs, and full-stack applications
-⚡ Strong focus on clean code, system design & DSA
-🔥 Passionate about solving real-world engineering problems
+💻 Technical Expertise
+Programming Languages: Java, Python, JavaScript
 
-🎓 🎯 Education
+Core Computer Science: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), System Design (Basics)
 
-🎓 Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar
-📌 B.Tech – Computer Science & Engineering
-⭐ CGPA: 8.65
+Backend Engineering: Spring Boot, Node.js, Express.js, REST APIs
 
-🏫 Adarsh Vidyalaya, Chhattisgarh
-📊 Class 12: 83.4% | Class 10: 92.2%
+Frontend Development: React.js, HTML5, CSS3, Tailwind CSS, Flutter
 
-💼 💡 Experience
-💻 Software & AI Intern — Infosys Springboard
-⚙️ Built AI-powered Company Info Extractor (LangChain + SerpAPI)
-📊 Automated structured data extraction for applications
-🚀 Improved efficiency using LLM pipelines
-☁️ AWS Cloud Intern — AICTE EduSkills
-🌐 Hands-on with EC2, S3, IAM, Networking, Security
-🚀 Deployed applications on AWS cloud
-📊 Data Visualization Intern — Excelerate
-🔄 Built ETL pipelines using PostgreSQL & Excel
-📈 Designed dashboards in Google Looker Studio
-🤝 Worked on data-driven decision making
-💻 Full Stack Trainee — Academy of Skill Development
-🚕 Built “Your Taxi” – Full Stack System
-🧩 Implemented Spring Boot (MVC Architecture)
-🔐 Designed role-based authentication & booking system
-🚀 🔥 Projects
-🚕 Your Taxi – Booking System
+Databases: MySQL, PostgreSQL, MongoDB, Firebase
 
-Java | Spring Boot | MySQL | Thymeleaf
+Cloud & DevOps: AWS (EC2, S3, IAM, Networking), Docker, Git, Postman
 
-⚡ Scalable taxi booking platform
-🔐 Authentication + Admin Dashboard
-📊 Booking history & ride management
-📝 Blog Application (MERN)
+AI & Data Tools: LangChain, Natural Language Processing (NLP), Pandas, Google Looker Studio
 
-React | Node.js | Express | MongoDB
+💼 Professional Experience
+💻 Software & AI Intern | Infosys Springboard
+Engineered an AI-powered Company Info Extractor utilizing LangChain and SerpAPI to streamline structured data extraction.
 
-🔑 JWT Authentication + CRUD APIs
-🎨 Responsive UI with Tailwind
-✍️ Create, edit & manage posts
-🧠 Retail AI Q&A Assistant (RAG)
+Optimized automated data pipelines using Large Language Models (LLMs), significantly boosting processing efficiency.
 
-LangChain | MySQL | LLMs
+☁️ AWS Cloud Intern | AICTE EduSkills
+Configured and managed core AWS cloud infrastructure, including EC2, S3, IAM policies, and cloud networking/security.
 
-🤖 Built intelligent query system
-📊 Fetch + answer data using AI
-⚡ Natural language search over DB
-📱 Flutter Learning App
+Successfully deployed and maintained cloud-hosted web applications with high availability.
 
-Flutter | Firebase
+📊 Data Visualization Intern | Excelerate
+Built and optimized robust ETL pipelines using PostgreSQL and Excel to streamline data processing.
 
-📲 Published on Play Store
-🎓 Learning resources + tutorials
-💻 🧠 Technical Skills
-👨‍💻 Languages
+Designed interactive business dashboards using Google Looker Studio to drive data-backed decision-making.
 
-Java Python JavaScript
+💻 Full Stack Trainee | Academy of Skill Development
+Developed “Your Taxi”, a comprehensive full-stack booking platform utilizing Spring Boot and MVC architecture.
 
-⚡ Core CS
+Implemented secure, role-based user authentication and an intuitive admin dashboard for ride management.
 
-DSA OOPs System Design Basics
+🔥 Featured Projects
+🚕 Your Taxi – Booking System (Java, Spring Boot, MySQL, Thymeleaf)
 
-🎨 Frontend
+Designed a scalable ride-booking platform featuring secure user authentication, an administrative command center, and complete ride history management.
 
-React.js HTML CSS Tailwind
+📝 MERN Blog Application (React, Node.js, Express, MongoDB, Tailwind CSS)
 
-🔧 Backend
+Built a full-stack blogging platform featuring JWT-based authentication, complete CRUD operations, and a fully responsive UI.
 
-Spring Boot Node.js Express
+🧠 Retail AI Q&A Assistant (RAG) (LangChain, MySQL, LLMs)
 
-🗄️ Database
+Developed an intelligent retrieval-augmented generation (RAG) system enabling natural language queries over structured database records.
 
-MySQL PostgreSQL MongoDB
+📱 Flutter Learning App (Flutter, Firebase)
 
-☁️ Tools & Cloud
+Published a cross-platform mobile learning application on the Google Play Store offering structured tutorials and educational resources.
 
-AWS Docker Git Postman
+🎓 Education & Credentials
+B.Tech in Computer Science & Engineering
 
-🤖 AI/ML
+Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar | CGPA: 8.65
 
-LangChain NLP Pandas
+Higher Secondary (Class 12) – Adarsh Vidyalaya, Chhattisgarh | Percentage: 83.4%
 
-📜 🏆 Certifications
-🥇 HackerRank – SQL (Intermediate)
-📊 Google Data Analytics
-🐍 Cisco Python Essentials
-☁️ AWS Virtual Internship
-🎯 🚀 Career Objective
+Secondary School (Class 10) – Adarsh Vidyalaya, Chhattisgarh | Percentage: 92.2%
 
-💼 Looking for SDE / Software Developer Roles
+🏆 Certifications
+🥇 SQL (Intermediate) – HackerRank
 
-⚙️ Backend Engineering (Java / Spring Boot)
-🌐 Full Stack Development (MERN / Java)
-🚀 Scalable Systems & API Development
+📊 Google Data Analytics – Google
+
+🐍 Python Essentials – Cisco
+
+☁️ AWS Virtual Internship – AICTE EduSkills
