@@ -1,4 +1,4 @@
-# Abhay Rathore | Software Development Engineer
+# Abhay Rathore | Full Stack Developer
 📧 abhayrathore036@gmail.com | 📱 +91 9109033270 | 🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
 
 ---
@@ -43,7 +43,7 @@
 
 | Degree / Milestone | Institution | Score / Grade |
 | :--- | :--- | :--- |
-| **B.Tech (CSE)** | Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar | **CGPA: 8.65** |
+| **B.Tech (CSE)** | Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar | **CGPA: 8.78** |
 | **Class 12 (Higher Secondary)** | Adarsh Vidyalaya, Chhattisgarh | **83.4%** |
 | **Class 10 (Secondary)** | Adarsh Vidyalaya, Chhattisgarh | **92.2%** |
 
