@@ -1,78 +1,59 @@
-🚀 Abhay Rathore
-Software Development Engineer | Java Full Stack & MERN Specialist
+# Abhay Rathore | Software Development Engineer
+📧 abhayrathore036@gmail.com | 📱 +91 9109033270 | 🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
 
-📧 abhayrathore036@gmail.com | 📱 +91 9109033270 | 🔗 LinkedIn | GitHub
+---
 
-✨ Professional Summary
-Passionate and results-driven Software Development Engineer specializing in scalable backend systems, robust REST APIs, and high-performance full-stack applications. Equipped with a strong foundation in Data Structures & Algorithms (DSA), clean code practices, and modern cloud infrastructure. Eager to contribute technical expertise to high-impact engineering teams in SDE and Full Stack development roles.
+## 🛠️ Technical Stack at a Glance
 
-💻 Technical Expertise
-Programming Languages: Java, Python, JavaScript
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Java, Python, JavaScript |
+| **Core CS** | Data Structures & Algorithms (DSA), OOPs, System Design (Basics) |
+| **Backend** | Spring Boot, Node.js, Express.js, REST APIs |
+| **Frontend** | React.js, Tailwind CSS, HTML5, CSS3, Flutter |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase |
+| **Cloud & DevOps** | AWS (EC2, S3, IAM, Networking), Docker, Git, Postman |
+| **AI & Data** | LangChain, NLP, Pandas, Google Looker Studio |
 
-Core Computer Science: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), System Design (Basics)
+---
 
-Backend Engineering: Spring Boot, Node.js, Express.js, REST APIs
+## 💼 Professional Experience
 
-Frontend Development: React.js, HTML5, CSS3, Tailwind CSS, Flutter
+| Role & Company | Key Contributions & Impact |
+| :--- | :--- |
+| **Software & AI Intern**<br>_Infosys Springboard_ | • Engineered AI-powered Company Info Extractor using LangChain & SerpAPI.<br>• Optimized automated data extraction pipelines using LLMs. |
+| **AWS Cloud Intern**<br>_AICTE EduSkills_ | • Configured core AWS infrastructure (EC2, S3, IAM, Security/Networking).<br>• Deployed and maintained highly available cloud-hosted web apps. |
+| **Data Visualization Intern**<br>_Excelerate_ | • Built and optimized robust ETL pipelines using PostgreSQL and Excel.<br>• Designed interactive business dashboards in Google Looker Studio. |
+| **Full Stack Trainee**<br>_Academy of Skill Development_ | • Developed "Your Taxi" full-stack platform using Spring Boot MVC.<br>• Implemented role-based authentication and admin ride management. |
 
-Databases: MySQL, PostgreSQL, MongoDB, Firebase
+---
 
-Cloud & DevOps: AWS (EC2, S3, IAM, Networking), Docker, Git, Postman
+## 🔥 Featured Projects
 
-AI & Data Tools: LangChain, Natural Language Processing (NLP), Pandas, Google Looker Studio
+| Project Name | Tech Stack | Key Features |
+| :--- | :--- | :--- |
+| **Your Taxi** | Java, Spring Boot, MySQL, Thymeleaf | Scalable booking platform with secure auth & admin dashboard. |
+| **MERN Blog App** | React, Node, Express, MongoDB, Tailwind | Full-stack blog with JWT authentication and CRUD APIs. |
+| **Retail AI Q&A** | LangChain, MySQL, LLMs | RAG-based intelligent query system for natural language DB search. |
+| **Flutter Learning App** | Flutter, Firebase | Cross-platform mobile app published on the Google Play Store. |
 
-💼 Professional Experience
-💻 Software & AI Intern | Infosys Springboard
-Engineered an AI-powered Company Info Extractor utilizing LangChain and SerpAPI to streamline structured data extraction.
+---
 
-Optimized automated data pipelines using Large Language Models (LLMs), significantly boosting processing efficiency.
+## 🎓 Education & Credentials
 
-☁️ AWS Cloud Intern | AICTE EduSkills
-Configured and managed core AWS cloud infrastructure, including EC2, S3, IAM policies, and cloud networking/security.
+| Degree / Milestone | Institution | Score / Grade |
+| :--- | :--- | :--- |
+| **B.Tech (CSE)** | Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar | **CGPA: 8.65** |
+| **Class 12 (Higher Secondary)** | Adarsh Vidyalaya, Chhattisgarh | **83.4%** |
+| **Class 10 (Secondary)** | Adarsh Vidyalaya, Chhattisgarh | **92.2%** |
 
-Successfully deployed and maintained cloud-hosted web applications with high availability.
+---
 
-📊 Data Visualization Intern | Excelerate
-Built and optimized robust ETL pipelines using PostgreSQL and Excel to streamline data processing.
+## 🏆 Certifications
 
-Designed interactive business dashboards using Google Looker Studio to drive data-backed decision-making.
-
-💻 Full Stack Trainee | Academy of Skill Development
-Developed “Your Taxi”, a comprehensive full-stack booking platform utilizing Spring Boot and MVC architecture.
-
-Implemented secure, role-based user authentication and an intuitive admin dashboard for ride management.
-
-🔥 Featured Projects
-🚕 Your Taxi – Booking System (Java, Spring Boot, MySQL, Thymeleaf)
-
-Designed a scalable ride-booking platform featuring secure user authentication, an administrative command center, and complete ride history management.
-
-📝 MERN Blog Application (React, Node.js, Express, MongoDB, Tailwind CSS)
-
-Built a full-stack blogging platform featuring JWT-based authentication, complete CRUD operations, and a fully responsive UI.
-
-🧠 Retail AI Q&A Assistant (RAG) (LangChain, MySQL, LLMs)
-
-Developed an intelligent retrieval-augmented generation (RAG) system enabling natural language queries over structured database records.
-
-📱 Flutter Learning App (Flutter, Firebase)
-
-Published a cross-platform mobile learning application on the Google Play Store offering structured tutorials and educational resources.
-
-🎓 Education & Credentials
-B.Tech in Computer Science & Engineering
-
-Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar | CGPA: 8.65
-
-Higher Secondary (Class 12) – Adarsh Vidyalaya, Chhattisgarh | Percentage: 83.4%
-
-Secondary School (Class 10) – Adarsh Vidyalaya, Chhattisgarh | Percentage: 92.2%
-
-🏆 Certifications
-🥇 SQL (Intermediate) – HackerRank
-
-📊 Google Data Analytics – Google
-
-🐍 Python Essentials – Cisco
-
-☁️ AWS Virtual Internship – AICTE EduSkills
+| Certification | Issuer |
+| :--- | :--- |
+| **SQL (Intermediate)** | HackerRank |
+| **Google Data Analytics** | Google |
+| **Python Essentials** | Cisco |
+| **AWS Virtual Internship** | AICTE EduSkills |
