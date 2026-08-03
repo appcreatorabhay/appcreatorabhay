@@ -1,142 +1,91 @@
 👋 Hi, I'm Abhay Rathore
 
-📧 abhayrathore036@gmail.com
- | 📱 9109033270
+📧 abhayrathore036@gmail.com | 📱 9109033270
 🔗 LinkedIn | GitHub
 
-💻 Full Stack Developer (Java | MERN) | Cloud & API Developer
-🚀 Passionate about building scalable web applications, enterprise backends, and modern user interfaces using Java, Spring Boot, React, Node.js, and Cloud technologies.
+💻 Software Development Engineer | Java Full Stack | MERN Stack
+
+🚀 I build scalable backend systems, REST APIs, and full-stack applications using Java (Spring Boot) and MERN stack.
+Passionate about solving real-world problems through clean code, system design, and efficient algorithms.
 
 🎓 Education
 
 Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar
-Bachelor of Technology – Computer Science and Engineering
-CGPA: 8.65
+B.Tech – Computer Science and Engineering | CGPA: 8.65
 
 Adarsh Vidyalaya, Chhattisgarh
-Class 12 (CBSE): 83.4%
-Class 10 (CBSE): 92.2%
+Class 12: 83.4% | Class 10: 92.2%
 
 💼 Experience
-Infosys Springboard – Software & AI Intern
+💻 Software & AI Intern — Infosys Springboard
+Developed an AI-powered Company Information Extractor using LangChain + SerpAPI
+Automated extraction of structured business data for applications
+Improved data retrieval efficiency using LLM-based pipelines
+☁️ AWS Cloud Intern — AICTE EduSkills
+Gained hands-on experience in EC2, S3, IAM, Networking & Security
+Deployed applications on AWS cloud infrastructure
+📊 Data Visualization Intern — Excelerate
 
-Built an AI-powered Company Information Extractor using LangChain and SerpAPI
+(Multiple Internships)
 
-Automated business data extraction and structured output for web applications
-
-AICTE – EduSkills AWS Virtual Internship
-
-Learned Cloud Architecture, EC2, S3, Networking, IAM, and Security
-
-Worked on deploying applications using AWS cloud services
-
-Excelerate – Data Visualization Associate Intern
-
-(May–July 2024 | Oct–Dec 2024 | June–July 2025)
-
-Built ETL pipelines and master tables using PostgreSQL & Excel
-
-Designed wireframes and collaborated with teams to create dashboards
-
-Developed Google Looker Studio dashboards for business insights
-
-Academy of Skill Development – Full Stack Trainee
-
-Developed “Your Taxi” – a full-stack taxi booking system
-
-Tech: Java, Spring Boot, Thymeleaf, MySQL
-
-Implemented role-based login, booking system, admin panel, and MVC architecture
-
+Built ETL pipelines using PostgreSQL & Excel
+Designed dashboards using Google Looker Studio
+Collaborated in data-driven product decision making
+💻 Full Stack Trainee — Academy of Skill Development
+Built “Your Taxi” – Full Stack Booking System
+Implemented Spring Boot backend with MVC architecture
+Designed role-based authentication & booking workflows
 🚀 Projects
 🚕 Your Taxi – Full Stack Booking System
 
-Java | Spring Boot | Thymeleaf | MySQL
+Java | Spring Boot | MySQL | Thymeleaf
 
-Role-based taxi booking system with customer & admin dashboards
+Developed a scalable taxi booking platform with admin & user roles
+Built REST APIs and implemented session-based authentication
+Features: booking system, ride history, admin dashboard
+📝 Blog Application (MERN Stack)
 
-REST APIs, session security, and responsive UI
+React | Node.js | Express | MongoDB
 
-Booking history, ride management, and admin controls
+Built a full-stack app with JWT authentication & CRUD APIs
+Designed responsive UI using Tailwind CSS
+Supports post creation, editing, and management
+🧠 Retail AI Q&A Assistant (RAG System)
 
-📝 Full Stack Blog Application
+LangChain | MySQL | LLMs
 
-React.js | Node.js | Express.js | MongoDB | Tailwind CSS
+Implemented Retrieval-Augmented Generation system
+Enabled natural language querying over structured database
+Integrated LLM for intelligent responses
+📱 Flutter Learning App
 
-Authentication, CRUD APIs, and responsive UI
+Flutter | Firebase
 
-Users can create, edit, and manage blog posts
-
-📱 Flutter Learning Companion App
-
-Flutter | HTTP | Firebase
-
-Published on Google Play Store
-
-Widget tutorials, documentation, videos, and GitHub links
-
-🧠 Retail AI Q&A Assistant (RAG)
-
-LangChain | MySQL | Google PaLM
-
-Built a Retrieval-Augmented Generation system
-
-Fetches data from MySQL and answers user queries using LLMs
-
+Published app on Google Play Store
+Provides curated learning resources and tutorials
 💻 Technical Skills
-Programming
 
-Java, Python, JavaScript, C, Dart
+Languages: Java, Python, JavaScript
+Core CS: Data Structures & Algorithms, OOPs
 
-Frontend
+Frontend: React.js, HTML, CSS, Tailwind
+Backend: Spring Boot, Node.js, Express
 
-React.js, HTML, CSS, Tailwind CSS, Flutter, Bootstrap, Thymeleaf
+Database: MySQL, PostgreSQL, MongoDB
 
-Backend
+Tools & Cloud: AWS, Docker, Git, Postman
 
-Spring Boot, Node.js, Express.js, Flask, REST APIs, JWT, OAuth
-
-Database
-
-MySQL, PostgreSQL, MongoDB, ChromaDB
-
-Cloud & Tools
-
-AWS, Docker, Git, GitHub, VS Code, PyCharm, Figma, Postman
-
-AI / Data
-
-LangChain, LLMs, NLP, Pandas, NumPy, Tableau, Excel, Matplotlib, Seaborn
+AI/ML: LangChain, NLP, Pandas
 
 📜 Certifications
-
 HackerRank – SQL (Intermediate)
-
 Google Data Analytics
+Cisco Python Essentials
+AWS Virtual Internship (AICTE)
+🌟 What I’m Looking For
 
-Edureka – Data Science & Machine Learning
+🚀 SDE / Software Developer Roles
 
-Cisco – Python Essentials 1
-
-Internshala – Android Development
-
-Accenture – Job Simulation Program
-
-Infosys Springboard Internship
-
-AICTE – AWS Virtual Internship
-
-🌟 Interests
-
-Java & MERN Full Stack Development
-
-Enterprise Web Applications
-
-Cloud-Native Applications
-
-AI-powered Web Apps
-
-API Development & Microservices
-
-🚀 Actively seeking opportunities as a Java Full Stack / MERN Stack Developer
-Let’s build something impactful!
+Backend Engineering (Java / Spring Boot)
+Full Stack Development (MERN / Java)
+API & Scalable System Development
