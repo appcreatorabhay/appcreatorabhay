@@ -1,6 +1,6 @@
 # Abhay Rathore | Software Developer
 
-📧 [abhayrathore036@gmail.com](mailto:abhayrathore036@gmail.com) | 📱 +91 9109033270 | 🔗 LinkedIn | GitHub
+📍 Noida, Uttar Pradesh |📧 [abhayrathore036@gmail.com](mailto:abhayrathore036@gmail.com) | 📱 +91 9109033270 | 🔗 LinkedIn | GitHub
 
 ---
 
