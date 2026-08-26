@@ -1,59 +1,110 @@
-# Abhay Rathore | Full Stack Developer
-📧 abhayrathore036@gmail.com | 📱 +91 9109033270 | 🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+# Abhay Rathore | Software Developer
+
+📧 [abhayrathore036@gmail.com](mailto:abhayrathore036@gmail.com) | 📱 +91 9109033270 | 🔗 LinkedIn | GitHub
 
 ---
 
-## 🛠️ Technical Stack at a Glance
+## 🛠️ Technical Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Java, Python, JavaScript |
-| **Core CS** | Data Structures & Algorithms (DSA), OOPs, System Design (Basics) |
-| **Backend** | Spring Boot, Node.js, Express.js, REST APIs |
-| **Frontend** | React.js, Tailwind CSS, HTML5, CSS3, Flutter |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase |
-| **Cloud & DevOps** | AWS (EC2, S3, IAM, Networking), Docker, Git, Postman |
-| **AI & Data** | LangChain, NLP, Pandas, Google Looker Studio |
+**Programming Languages:**
+Python, Java, JavaScript, SQL
+
+**Core CS:**
+Data Structures & Algorithms (DSA), OOPs, System Design (Basics)
+
+**Backend:**
+FastAPI, Spring Boot, Node.js, Express.js, REST APIs
+
+**Frontend:**
+React.js, Tailwind CSS, HTML5, CSS3, Flutter
+
+**Databases:**
+MongoDB, MySQL, PostgreSQL, Firebase
+
+**Cloud & DevOps:**
+AWS (EC2, S3, IAM, Networking), Docker, Git, Postman
+
+**AI & Data:**
+LangChain, NLP, Pandas, Google Looker Studio
 
 ---
 
 ## 💼 Professional Experience
 
-| Role & Company | Key Contributions & Impact |
-| :--- | :--- |
-| **Software & AI Intern**<br>_Infosys Springboard_ | • Engineered AI-powered Company Info Extractor using LangChain & SerpAPI.<br>• Optimized automated data extraction pipelines using LLMs. |
-| **AWS Cloud Intern**<br>_AICTE EduSkills_ | • Configured core AWS infrastructure (EC2, S3, IAM, Security/Networking).<br>• Deployed and maintained highly available cloud-hosted web apps. |
-| **Data Visualization Intern**<br>_Excelerate_ | • Built and optimized robust ETL pipelines using PostgreSQL and Excel.<br>• Designed interactive business dashboards in Google Looker Studio. |
-| **Full Stack Trainee**<br>_Academy of Skill Development_ | • Developed "Your Taxi" full-stack platform using Spring Boot MVC.<br>• Implemented role-based authentication and admin ride management. |
+### **Software & AI Intern | Infosys Springboard**
+
+* Engineered an AI-powered Company Info Extractor using LangChain & SerpAPI.
+* Optimized automated data extraction pipelines using LLMs.
+
+### **AWS Cloud Intern | AICTE EduSkills**
+
+* Configured core AWS infrastructure including EC2, S3, IAM, Security & Networking.
+* Deployed and maintained cloud-hosted web applications.
+
+### **Data Visualization Intern | Excelerate**
+
+* Built and optimized ETL pipelines using PostgreSQL and Excel.
+* Designed interactive business dashboards in Google Looker Studio.
+
+### **Full Stack Trainee | Academy of Skill Development**
+
+* Developed "Your Taxi" full-stack platform using Spring Boot MVC.
+* Implemented role-based authentication and admin ride management.
 
 ---
 
 ## 🔥 Featured Projects
 
-| Project Name | Tech Stack | Key Features |
-| :--- | :--- | :--- |
-| **Your Taxi** | Java, Spring Boot, MySQL, Thymeleaf | Scalable booking platform with secure auth & admin dashboard. |
-| **MERN Blog App** | React, Node, Express, MongoDB, Tailwind | Full-stack blog with JWT authentication and CRUD APIs. |
-| **Retail AI Q&A** | LangChain, MySQL, LLMs | RAG-based intelligent query system for natural language DB search. |
-| **Flutter Learning App** | Flutter, Firebase | Cross-platform mobile app published on the Google Play Store. |
+### **Todo Management REST API | Python, FastAPI, MongoDB**
+
+* Built a **RESTful Todo API** using Python and FastAPI with CRUD operations.
+* Integrated **MongoDB with PyMongo** and **Pydantic** for data storage, validation, and modelling.
+* Implemented **API routing, exception handling, timestamps**, and **Swagger/OpenAPI documentation**.
+
+### **Medical RAG Bot | Python, LangChain, FAISS**
+
+* Built a **Medical RAG Bot using Python and LangChain** to process medical PDFs with DirectoryLoader and PyPDFLoader.
+* Processed and chunked content, generating embeddings with **HuggingFace MiniLM**.
+* Stored embeddings in **FAISS** for fast retrieval-augmented responses.
+
+### **Your Taxi | Java, Spring Boot, MySQL, Thymeleaf**
+
+* Developed a full-stack taxi booking platform with secure authentication and an admin dashboard.
+* Implemented role-based authentication and ride management functionality.
+
+### **MERN Blog App | React, Node.js, Express.js, MongoDB, Tailwind CSS**
+
+* Built a full-stack blog application with **JWT authentication and CRUD APIs**.
+* Developed a responsive user interface using React.js and Tailwind CSS.
+
+### **Retail AI Q&A Assistant | Python, LangChain, MySQL**
+
+* Built a **Retail Q&A Assistant using Python, LangChain, and RAG architecture**.
+* Used **MySQL** to store and retrieve retail data based on user questions.
+* Integrated **Google PaLM LLM via API** to generate natural-language answers.
 
 ---
 
 ## 🎓 Education & Credentials
 
-| Degree / Milestone | Institution | Score / Grade |
-| :--- | :--- | :--- |
-| **B.Tech (CSE)** | Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar | **CGPA: 8.78** |
-| **Class 12 (Higher Secondary)** | Adarsh Vidyalaya, Chhattisgarh | **83.4%** |
-| **Class 10 (Secondary)** | Adarsh Vidyalaya, Chhattisgarh | **92.2%** |
+**B.Tech (Computer Science & Engineering)**
+Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar
+**CGPA: 8.78/10**
+
+**Class 12 (Higher Secondary)**
+Adarsh Vidyalaya, Chhattisgarh
+**83.4%**
+
+**Class 10 (Secondary)**
+Adarsh Vidyalaya, Chhattisgarh
+**92.2%**
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Issuer |
-| :--- | :--- |
-| **SQL (Intermediate)** | HackerRank |
-| **Google Data Analytics** | Google |
-| **Python Essentials** | Cisco |
-| **AWS Virtual Internship** | AICTE EduSkills |
+* **SQL (Intermediate)** — HackerRank
+* **Google Data Analytics Professional Certificate** — Google
+* **Python Essentials** — Cisco
+* **AWS Virtual Internship** — AICTE EduSkills
+
